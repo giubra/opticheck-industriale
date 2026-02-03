@@ -1,0 +1,7 @@
+{
+  "name": "OptiCheck Industriale",
+  "description": "Un sistema di gestione dei dispositivi ad alte prestazioni per i giri di controllo degli operatori, la registrazione dei valori delle apparecchiature e l'analisi dell'efficienza tramite AI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
